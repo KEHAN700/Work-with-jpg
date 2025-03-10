@@ -1,0 +1,15 @@
+Creator by KEHAN
+||UA||
+__Бібліотеки__
+Pillow
+Colorama
+__Завантаження__
+pip install Pillow
+pip install Colorama
+||EU||
+__Libraries__
+Pillow
+Colorama
+__Downloads__
+pip install Pillow
+pip install Colorama
